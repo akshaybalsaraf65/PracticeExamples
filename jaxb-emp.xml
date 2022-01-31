@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee1 id="102">
+    <age>22</age>
+    <gender>Male</gender>
+    <name>akaki</name>
+    <role>employee</role>
+</employee1>
